@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Basic colors -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#808080</color>
+    <color name="purple">#6200EE</color>
+
+    <!-- Category colors -->
+    <color name="fruits">#98CB00</color>
+    <color name="dairy">#34B4E5</color>
+    <color name="vegetables">#FFB933</color>
+    <color name="meat">#FE4345</color>
+    <color name="beverages">#AA66CD</color>
+    <color name="default_category">#D3D3D3</color>
+
+    <!-- Button color -->
+    <color name="button_purple">#6200EE</color>
+    <color name="button_text_white">#FFFFFF</color>
+
+    <!-- Background color -->
+    <color name="background_light_purple">#F8E9FF</color>
+</resources>
